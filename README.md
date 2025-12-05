@@ -6,7 +6,7 @@
     ```
     [] #include <iostream>;
     [] #includ <iostream>
-    [] #include <iostream>
+    [x] #include <iostream>
     [] #include <iostrem>
     ```
 1. Отметьте крестиком `[x]` правильное написание пространства имен, и выведите результат на экран:
